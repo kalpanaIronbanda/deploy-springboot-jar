@@ -1,6 +1,6 @@
 # Spring Boot Jar Deployment Demo
 
-This is a simple Spring Boot application demonstrating how to deploy a JAR file using Docker and Kubernetes.
+This is a simple Spring Boot application demonstrating how to deploy a JAR file using Docker.
 
 Prerequisites
 -------------
